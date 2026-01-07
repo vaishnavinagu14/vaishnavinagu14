@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaishnavinagu14
 - 👀 I’m interested in  Full-Stack Web Development.
-- 🌱 I’m currently learning React.js, Node.js, MongoDB, and building real-time apps..
+- 🌱 I’m currently working React.js, Node.js, MongoDB, and building real-time apps..
 - 💞️ I’m looking to collaborate on nnovative web projects and open-source contributions.
 - 📫 How to reach me [vaishnavinagu06@gmail.com](mailto:vaishnavinagu06@gmail.com)  .
 - 😄 Pronouns: she/her.
